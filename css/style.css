@@ -56,3 +56,25 @@ header > .right > ul{
     width: 740px;
     float: right;
 }
+
+article{
+    overflow: hidden;
+    padding: 5px;
+    box-shadow: 0 0 20px #eee;
+}
+
+article img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border:7px double cornflowerblue;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.title{
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+}
